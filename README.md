@@ -37,7 +37,7 @@ Intensive 16-week coding bootcamp with an acceptance rate of 10%
 ## Experience
 
 ##### December 2015 – March 2017 - Kantar Media Consumer Intelligence - Client Service Executive
-*One of the largest Market Research Businesses in Britain*
+**One of the largest Market Research Businesses in Britain**
 - Provide account management for 20 Media Owners in Britain (including Twitter, Amazon, Google and Twitch)
 - Personally responsible for the renewal of accounts collectively worth in excess of £250,000 a year
 - Co-ordinate and deliver client training sessions to ensure optimum usage of TGI data/Choices software 
@@ -45,23 +45,23 @@ Intensive 16-week coding bootcamp with an acceptance rate of 10%
 -	Currently studying towards the MRS Advanced Certificate
 
 ##### July 2015 – November 2015 - Newton and Bell Ltd. - Associate 
-*Financial education platform and fund marketer based in the heart of London*
+**Financial education platform and fund marketer based in the heart of London**
 - Educating clients about reaching financial independence through key wealth principles.
 - Tasked with creating presentations, research and promoting select funds to potential investors across the country
 
-##### September 2014 - B&Q Store Support Office and Kingfisher PLC - Intern 
-*Multinational market leader in the home improvement retail sector*
+##### September 2014 - B&Q Store Support Office and Kingfisher PLC - Intern
+**Multinational market leader in the home improvement retail sector**
 Two week internship at B&Q Store Support Office in Southampton shadowing the Trading Support Team, ranging from Analysts to Team Leaders, and assisting the Head of Programmes at Kingfisher PLC who was responsible for overseeing the implementation of SAP F&R throughout the business.
 
 ##### June 2013 – June 2015 - Aditus Audience Acquisition Ltd. - Sales Agent 
-*Leading subscriptions sales agency located in the heart of London*
+**Leading subscriptions sales agency located in the heart of London**
 - Top 4 most successful new starters in the history of the company, achieving highest bracket of commission awarded to top Sales Agents, whilst consistently exceeding team and individual KPI targets
 - B2C subscription sales on behalf of Guardian Media Group; News Corp UK & Ireland, Telegraph Media Group, Dennis Publishing and Royal College of Nursing Publishing Company
 - B2B sales of Financial Times products to offices throughout the Middle East and Europe 
 - Tasked with training new Sales Agents on an ad hoc basis
 
 ##### September 2010 – June 2013 (part-time) - Haran’s Developments - Business Analyst
-*Family-run private landlord specialising in student accommodation*
+**Family-run private landlord specialising in student accommodation**
 - Arranging maintenance for properties with suppliers and general admin duties
 - B2B negotiation of management fees with lettings agents and B2C negotiation of leases with tenants
 - Extensive use of Microsoft Excel for analysis of company accounts
