@@ -6,7 +6,7 @@ I am an aspiring Web Developer currently enrolled at one of the leading coding b
 
 #### Quick Learner
 
-Soon after graduating with a 2:1 in Mechanical Engineering, I came to the realisation that though my problem-solving skills had been challenged on a daily basis for years on end, I needed to improve my communication and interpersonal skills. After initially struggling to adapt to a job that required a different skillset to what I had spent years building, I soon decided to dedicate my spare time to research Sales techniques and read books that would help me overcome my fear of pitching a complete stranger. This extra-curricular dedication lead to my promotion to the top sales team within three months of my first day in the Sales industry.  
+Soon after graduating with a 2:1 in Mechanical Engineering, I came to the realisation that though my problem-solving skills had been challenged on a daily basis for years on end, I needed to improve my communication and interpersonal skills. After initially struggling to adapt to a job that required a different skillset to what I had spent years building, I soon decided to dedicate my spare time to research Sales techniques and read books that would help me overcome my fear of pitching a complete stranger. This extracurricular dedication lead to a promotion to the top sales team within three months of my first day in the Sales industry.  
 
 #### Strong team-worker 
 
@@ -66,3 +66,10 @@ Two week internship at B&Q Store Support Office in Southampton shadowing the Tra
 - Arranging maintenance for properties with suppliers and general admin duties
 - B2B negotiation of management fees with lettings agents and B2C negotiation of leases with tenants
 - Extensive use of Microsoft Excel for analysis of company accounts
+
+## Hobbies & Interests
+
+* Keen sports fan (In particular football, F1 and boxing)
+* Avid movie buff (Casablanca and Inglourious Basterds to name a few of my favourites)
+* Average footballer (being scouted by Fulham as a 12 year old is my claim to fame)
+* Random fact enthusiast (if banging your head against a wall for an hour burns 150 calories...does coding count as exercise?)
