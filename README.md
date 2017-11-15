@@ -42,8 +42,6 @@ Intensive 16-week coding bootcamp with an acceptance rate of 10%
 - 2:1
 - My Final Year Project involved building a transportation vehicle for people in a Ghanaian village
 
-#### Any other qualifications
-
 ## Experience
 
 #### December 2015 – March 2017 - Kantar Media Consumer Intelligence - Client Service Executive
