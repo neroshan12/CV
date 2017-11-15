@@ -17,14 +17,24 @@ To build on the skills I developed by working in sales, I decided to pursue a ro
 #### Makers Academy (August 2017 to November 2017)
 Intensive 16-week coding bootcamp with an acceptance rate of 10%
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Independent learning and problem-solving
+- Agile methodologies, TDD, BDD
+- Pair programming
+- Curious and passionate about code. 
+- Fast, independent learner 
+- Great collaborator 
+- Independent learning and problem-solving
+- Version control with Git and Github
+- Object Oriented programming
+- JavaScript, jQuery, AJAX
+- Ruby & Ruby on Rails
+- Ruby Gems (such as Devise, CarrierWave, RuboCop, Database Cleaner)
+- HTML, CSS, Bootstrap
+- Testing with RSpec, Capybara, Jasmine, Mocha, Chai
+- Sinatra
+- Rapid deployment with Heroku 
+- PostgreSQL, DataMapper & Active Record
+- APIs such as Twilio & Google Maps
 
 #### City University London (September 2010 - August 2013)
 
@@ -42,7 +52,6 @@ Intensive 16-week coding bootcamp with an acceptance rate of 10%
 - Personally responsible for the renewal of accounts collectively worth in excess of £250,000 a year
 - Co-ordinate and deliver client training sessions to ensure optimum usage of TGI data/Choices software 
 -	Regularly assist client Research & Sales units with data analysis and construction of compelling sales stories using TGI data
--	Currently studying towards the MRS Advanced Certificate
 
 #### July 2015 – November 2015 - Newton and Bell Ltd. - Associate 
 *Financial education platform and fund marketer based in the heart of London*
@@ -69,7 +78,6 @@ Two week internship at B&Q Store Support Office in Southampton shadowing the Tra
 
 ## Hobbies & Interests
 
-* Keen sports fan (In particular football, F1 and boxing)
-* Avid movie buff (Casablanca and Inglourious Basterds to name a few of my favourites)
-* Average footballer (being scouted by Fulham as a 12 year old is my claim to fame)
-* Random fact enthusiast (if banging your head against a wall for an hour burns 150 calories...does coding count as exercise?)
+- Keen sports fan (In particular football, F1 and boxing)
+- Avid movie buff (Casablanca and Inglourious Basterds to name a few of my favourites)
+- Average footballer (being scouted by Fulham as a 12 year old is my claim to fame)
