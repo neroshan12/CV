@@ -1,6 +1,6 @@
 ## Nero Siva
 
-[Projects](#projects) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies & interests) | [LinkedIn](https://www.linkedin.com/in/nero-siva-709bb1135/) |
+[Projects](#projects) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nero-siva-709bb1135/) |
 
 I am an aspiring Software Developer and recent graduate one of the leading coding bootcamps in Europe, Makers Academy. As a graduate Mechanical Engineer with four years of Sales & Account Management experience, I am seeking an opportunity to apply my diverse skill set as Junior Software Developer. My time on the intensive programming course has instilled a core framework of processes and skills including, but not limited to, regular pair-programming, TDD & BDD (Test and Behaviour Driven Development) and strong XP values.
 
@@ -93,7 +93,7 @@ Two-week internship at B&Q Store Support Office in Southampton shadowing the Tra
 - B2B negotiation of management fees with lettings agents and B2C negotiation of leases with tenants
 - Extensive use of Microsoft Excel for analysis of company accounts
 
-## Hobbies & Interests
+## Hobbies and Interests
 
 - Keen sports fan (In particular football, F1 and boxing)
 - Avid movie enthusiast (Casablanca and Inglourious Basterds to name a few of my favourites)
