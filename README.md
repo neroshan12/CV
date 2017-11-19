@@ -78,6 +78,7 @@ Intensive 16-week coding bootcamp with an acceptance rate of 10%
 
 #### September 2014 - B&Q Store Support Office and Kingfisher PLC - Intern
 *Multinational market leader in the home improvement retail sector*
+
 Two-week internship at B&Q Store Support Office in Southampton shadowing the Trading Support Team, ranging from Analysts to Team Leaders, and assisting the Head of Programmes at Kingfisher PLC who was responsible for maintaining Lean principles and overseeing the implementation of SAP F&R throughout the business.
 
 #### June 2013 – June 2015 - Aditus Audience Acquisition Ltd. - Sales Agent
