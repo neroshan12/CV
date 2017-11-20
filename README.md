@@ -66,20 +66,20 @@ Intensive 16-week coding bootcamp with an acceptance rate of 10%
 
 #### December 2015 – March 2017 - Kantar Media Consumer Intelligence - Client Service Executive
 *One of the largest Market Research Businesses in Britain*
-- Provide account management for 20 Media Owners in Britain (including Twitter, Amazon, Google, Twitch and major Publishers such as News Corp)
+- Provided account management for 20 Media Owners in Britain (including Twitter, Amazon, Google, Twitch and major Publishers such as News Corp)
 - Personally responsible for the renewal of accounts collectively worth in excess of £250,000 a year
 - Co-ordinated and delivered client training sessions to ensure optimum usage of TGI data/Choices software
 - Regularly assisted client Research & Sales units with data analysis and construction of compelling sales stories using TGI data
 
 #### July 2015 – November 2015 - Newton and Bell Ltd. - Associate
 *Financial education platform and fund marketer based in the heart of London*
-- Educating clients about reaching financial independence through key wealth principles.
+- Educated clients about reaching financial independence through key wealth principles.
 - Tasked with creating presentations, research and promoting select funds to potential investors across the country
 
 #### September 2014 - B&Q Store Support Office and Kingfisher PLC - Intern
 *Multinational market leader in the home improvement retail sector*
 
-Two-week internship at B&Q Store Support Office in Southampton shadowing the Trading Support Team, ranging from Analysts to Team Leaders, and assisting the Head of Programmes at Kingfisher PLC who was responsible for maintaining Lean principles and overseeing the implementation of SAP F&R throughout the business.
+Two-week internship at B&Q Store Support Office in Southampton shadowing the Trading Support Team, ranged from Analysts to Team Leaders, and assisted the Head of Programmes at Kingfisher PLC who was responsible for maintaining Lean principles and overseeing the implementation of SAP F&R throughout the business.
 
 #### June 2013 – June 2015 - Aditus Audience Acquisition Ltd. - Sales Agent
 *Leading subscriptions sales agency located in the heart of London*
@@ -90,7 +90,7 @@ Two-week internship at B&Q Store Support Office in Southampton shadowing the Tra
 
 #### September 2010 – June 2013 (part-time) - Haran’s Developments - Business Analyst
 *Family-run private landlord specialising in student accommodation*
-- Arranging maintenance for properties with suppliers and general admin duties
+- Arranged maintenance for properties with suppliers and general admin duties
 - B2B negotiation of management fees with lettings agents and B2C negotiation of leases with tenants
 - Extensive use of Microsoft Excel for analysis of company accounts
 
