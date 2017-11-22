@@ -1,6 +1,6 @@
 ## Nero Siva
 
-| [Projects](#projects) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nero-siva-709bb1135/) |
+| [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nero-siva-709bb1135/) |
 
 I am an aspiring Software Developer and recent graduate one of the leading coding bootcamps in Europe, Makers Academy. As a graduate Mechanical Engineer with four years of Sales & Account Management experience, I am seeking an opportunity to apply my diverse skill set as Junior Software Developer. My time on the intensive programming course has instilled a core framework of processes and skills including, but not limited to, regular pair-programming, TDD & BDD (Test and Behaviour Driven Development) and strong XP values.
 
@@ -25,15 +25,15 @@ Gained and developed through Makers Academy:
 
 #### Quick Learner
 
-- Constantly challenged to learn new concepts and programming languages on a weekly basis at Makers Academy.
-- Dedicated my spare time to learning Sales techniques to overcome my fear of pitching to new clients and this extracurricular dedication lead to a promotion to the top sales team within three months of my first day in the Sales industry.  
-- Taught myself how to create powerful brand stories through trend analysis of syndicated research for clients. Within three months at Kantar Media and very little formal training, I was requested by numerous clients to consult on critical media pitches.
+- Constantly challenged to learn new concepts and programming languages on a weekly basis at Makers Academy
+- Dedicated my spare time to learning Sales techniques to overcome my fear of pitching to new clients and this extracurricular dedication lead to a promotion to the top sales team within three months of my first day in the Sales industry
+- Taught myself how to create powerful brand stories through trend analysis of syndicated research for clients. Within three months at Kantar Media and very little formal training, I was requested by numerous clients to consult on critical media pitches
 
 #### Strong team-worker
 
 - Successfully project managed 2 out of 3 group projects at Makers Academy harnessing Agile methodologies and XP values
-- Vast experience at Kantar Media working in cross-functional teams for Business Units in Britain, across Europe and regularly requested to collaborate with client internal research departments.
-- Collaborating in a high-pressure environment in an Account Management team from diverse backgrounds enabled me to develop my ability to work in a group to reach a common goal.
+- Vast experience at Kantar Media working in cross-functional teams for Business Units in Britain, across Europe and regularly requested to collaborate with client internal research departments
+- Collaborating in a high-pressure environment in an Account Management team from diverse backgrounds enabled me to develop my ability to work in a group to reach a common goal
 
 ## Education
 
@@ -72,7 +72,7 @@ Intensive 16-week coding bootcamp with an acceptance rate of 10%
 
 #### July 2015 – November 2015 - Newton and Bell Ltd. - Associate
 *Financial education platform and fund marketer based in the heart of London*
-- Educated clients about reaching financial independence through key wealth principles.
+- Educated clients about reaching financial independence through key wealth principles
 - Tasked with creating presentations, research and promoting select funds to potential investors across the country
 
 #### September 2014 - B&Q Store Support Office and Kingfisher PLC - Intern
