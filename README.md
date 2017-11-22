@@ -58,8 +58,7 @@ Intensive 16-week coding bootcamp with an acceptance rate of 10%
 
 #### City University London (September 2010 - August 2013)
 
-- BEng in Mechanical Engineering
-- 2:1
+- BEng in Mechanical Engineering (2:1)
 - My Final Year Project involved building a transportation vehicle for people in a Ghanaian village
 
 ## Experience
