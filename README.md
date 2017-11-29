@@ -95,6 +95,6 @@ Two-week internship at B&Q Store Support Office in Southampton shadowing the Tra
 
 ## Hobbies and Interests
 
-- Keen sports fan (In particular football, F1 and boxing)
+- Keen sports fan (in particular football, F1 and boxing)
 - Avid movie enthusiast (Casablanca and Inglourious Basterds to name a few of my favourites)
 - Average footballer (being scouted by Fulham as a 12-year-old is my claim to fame)
