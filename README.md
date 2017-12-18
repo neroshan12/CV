@@ -50,7 +50,7 @@ Intensive 16-week coding bootcamp with an acceptance rate of 10%
 - Java, Spring Boot, Maven
 - Ruby Gems (such as Devise, CarrierWave, RuboCop, Database Cleaner)
 - HTML, CSS, Bootstrap
-- Testing with RSpec, Capybara, Jasmine, Mocha, Chai, JUnit
+- Testing with RSpec, Capybara, Jasmine, Jest, JUnit
 - Sinatra
 - Rapid deployment with Heroku
 - PostgreSQL, DataMapper & Active Record
