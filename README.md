@@ -2,7 +2,7 @@
 
 | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nero-siva-709bb1135/) |
 
-I am an aspiring Software Developer and recent graduate one of the leading coding bootcamps in Europe, Makers Academy. As a graduate Mechanical Engineer with four years of Sales & Account Management experience, I am seeking an opportunity to apply my diverse skill set as Junior Software Developer. My time on the intensive programming course has instilled a core framework of processes and skills including, but not limited to, regular pair-programming, TDD & BDD (Test and Behaviour Driven Development) and strong XP values.
+As a recent graduate of one of the leading programming boot-camps in Europe, Makers Academy, I am seeking an opportunity to apply my diverse skill set as Junior Software Developer. I also hold a Mechanical Engineering degree and have four years of Sales & Account Management experience. My time on the intensive coding bootcamp has instilled a core framework of processes and skills including, but not limited to, TDD & BDD (Test and Behaviour Driven Development), strong XP values and regular pair-programming. 
 
 ## Projects
 
