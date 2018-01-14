@@ -2,7 +2,7 @@
 
 | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nero-siva-709bb1135/) |
 
-As a recent graduate of one of the leading programming boot-camps in Europe, Makers Academy, I am seeking an opportunity to apply my diverse skill set as Junior Software Developer. I also hold a Mechanical Engineering degree and have four years of Sales & Account Management experience. My time on the intensive coding bootcamp has instilled a core framework of processes and skills including, but not limited to, TDD & BDD (Test and Behaviour Driven Development), strong XP values and regular pair-programming. 
+As a recent graduate of one of the leading programming boot camps in Europe, Makers Academy, I am seeking an opportunity to apply my diverse skill set as Junior Software Developer. I also hold a Mechanical Engineering degree and have four years of Sales & Account Management experience. My time on the intensive coding boot camp has instilled a core framework of processes and skills including, but not limited to, TDD & BDD (Test and Behaviour Driven Development), strong XP values and regular pair-programming. 
 
 ## Projects
 
@@ -38,14 +38,14 @@ Gained and developed through Makers Academy:
 ## Education
 
 #### Makers Academy (August 2017 to November 2017)
-Intensive 16-week coding bootcamp with an acceptance rate of 10%
+Intensive 16-week coding boot camp with an acceptance rate of 10%
 
 - Independent learning and problem-solving
 - Agile methodologies, TDD, BDD
 - Pair programming
 - Version control with Git and Github
 - Object-oriented programming
-- JavaScript, jQuery, AJAX
+- JavaScript, jQuery, AJAX, Node.js
 - Ruby & Ruby on Rails
 - Java, Spring Boot, Maven
 - Ruby Gems (such as Devise, CarrierWave, RuboCop, Database Cleaner)
@@ -53,8 +53,8 @@ Intensive 16-week coding bootcamp with an acceptance rate of 10%
 - Testing with RSpec, Capybara, Jasmine, Jest, JUnit
 - Sinatra
 - Rapid deployment with Heroku
-- PostgreSQL, DataMapper & Active Record
-- APIs such as Twilio & Google Maps
+- PostgreSQL, MongoDB, DataMapper & Active Record
+- APIs such as Twilio, Google Maps and cryptocompare
 
 #### City University London (September 2010 - August 2013)
 
