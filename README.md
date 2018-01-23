@@ -2,28 +2,28 @@
 
 | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/nero-siva-709bb1135/) |
 
-As a recent graduate of one of the leading programming boot camps in Europe, Makers Academy, I am seeking an opportunity to apply my diverse skill set as Junior Software Developer. I also hold a Mechanical Engineering degree and have four years of Sales & Account Management experience. My time on the intensive coding boot camp has instilled a core framework of processes and skills including, but not limited to, TDD & BDD (Test and Behaviour Driven Development), strong XP values and regular pair-programming. 
+As a recent graduate of one of the leading programming boot camps in Europe, Makers Academy, I am seeking an opportunity to apply my diverse skill set as Junior Software Developer. I also hold a Mechanical Engineering degree and have four years of Sales & Account Management experience. My time on the intensive coding boot camp has instilled a core framework of processes and skills including, but not limited to, TDD & BDD (Test and Behaviour Driven Development), strong XP values and regular pair programming. 
 
 ## Projects
 
 | Project | Description | Technologies |
 |:--------:|:----|:--------------|
 |[Layman Brothers](https://github.com/neroshan12/laymanbrothers)| For our final project at Makers Academy, our group decided to challenge ourselves by learning a completely new tech stack in order to create a Digital Banking Web Application. Immersing myself in all aspects of the project in order to expose myself to the front and back-end, I was keen to stick to the core principles that I have been exposed to in the past 12 weeks. I arranged regular stand-ups & retros to ensure the team were focused on the task at hand and maintained a clear line of communication between all members of the team. | Java, Spring Boot, Maven, PostgreSQL, Spring JPA, HTML, CSS and Thymeleaf. Testing: JUnit and Selenium. |
-|[Attractour](https://github.com/neroshan12/practice-project)| For a practice project, our group decided to develop a web application that allows users to see their distance from predetermined points of interest and the MVP was created within a week. The project allowed us to experiment with a variety of techniques that we had been learning throughout the bootcamp and gave me the opportunity to teach myself how to style with HTML, CSS & Bootstrap.   | JavaScript, HTML, CSS & Bootstrap. |
+|[Attractour](https://github.com/neroshan12/practice-project)| For a practice project, our group decided to develop a web application that allows users to see their distance from predetermined points of interest and the MVP was created within a week. The project allowed us to experiment with a variety of techniques that we had been learning throughout the boot camp and gave me the opportunity to teach myself how to style with HTML, CSS & Bootstrap.   | JavaScript, HTML, CSS & Bootstrap. |
 |[EarBnb](https://github.com/neroshan12/EarBnb)| I project managed a group of three to create a clone of Airbnb. We used the week as an exercise to learn how to develop software in a team using Agile methodology and XP values whilst applying our Ruby and Sinatra knowledge. | Ruby, JavaScript, HTML and CSS. Testing: RSpec and Capybara |
-|[crypto-website](https://github.com/neroshan12/crypto-website)| Websites that show users the latest cryptocurrency prices usually have information such as historical trends and a variety of navigation tabs that I do not neccesarily need. After graduating from Makers Academy, I created a full-stack JavaScript web application that renders the latest price of cryptocurrencies I have a particular interest in, using the cryptocompare API. | JavaScript, node.js, HTML, CSS & Bootstrap. |
+|[crypto-website](https://github.com/neroshan12/crypto-website)| Websites that show users the latest cryptocurrency prices usually have information such as historical trends and a variety of navigation tabs that I do not necessarily need. After graduating from Makers Academy, I created a full-stack JavaScript web application that renders the latest price of cryptocurrencies I have a particular interest in, using the cryptocompare API. | JavaScript, node.js, HTML, CSS & Bootstrap. |
 |[jobHuntr](https://github.com/neroshan12/jobHuntr)| In order to keep track of businesses and roles I'd like to apply for, I decided to create a full-stack JavaScript CRUD web application that would allow me to store the necessary company and role information to a MongoDB database. | JavaScript, node.js, HTML, CSS & Bootstrap. |
 
 ## Skills
 
-#### Coding
+#### Programming
 
 Gained and developed through Makers Academy:
 
 - Practices: OOP, TDD, BDD, Pair-programming
 - Languages: Ruby, JavaScript, Java
-- Frameworks: Rails, Node.js, jQuery, Spring Boot
-- Testing: RSpec, Capybara, Jasmine, JUnit
+- Frameworks: Rails, Express, Spring Boot
+- Testing: RSpec, Capybara, Jasmine, JUnit, Jest
 
 #### Quick Learner
 
@@ -45,7 +45,7 @@ Intensive 16-week coding boot camp with an acceptance rate of 10%
 - Independent learning and problem-solving
 - Agile methodologies, TDD, BDD
 - Pair programming
-- Version control with Git and Github
+- Version control with Git and GitHub
 - Object-oriented programming
 - JavaScript, jQuery, AJAX, Node.js
 - Ruby & Ruby on Rails
