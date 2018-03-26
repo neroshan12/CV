@@ -23,7 +23,7 @@ Gained and developed through Makers Academy:
 - Practices: OOP, TDD, BDD, Pair-programming
 - Languages: Ruby, JavaScript, Java
 - Frameworks: Rails, Express, Spring Boot
-- Testing: RSpec, Capybara, Jasmine, JUnit, Jest
+- Testing: RSpec, Capybara, Jasmine, JUnit, Jest, Mocha
 
 #### Quick Learner
 
@@ -47,12 +47,12 @@ Intensive 16-week coding boot camp with an acceptance rate of 10%
 - Pair programming
 - Version control with Git and GitHub
 - Object-oriented programming
-- JavaScript, jQuery, AJAX, Node.js
+- JavaScript, jQuery, AJAX, Node.js, React.js
 - Ruby & Ruby on Rails
 - Java, Spring Boot, Maven
 - Ruby Gems (such as Devise, CarrierWave, RuboCop, Database Cleaner)
 - HTML, CSS, Bootstrap
-- Testing with RSpec, Capybara, Jasmine, Jest, JUnit
+- Testing with RSpec, Capybara, Jasmine, Jest, JUnit, Mocha, Chai, Sinon
 - Sinatra
 - Rapid deployment with Heroku
 - PostgreSQL, MongoDB, DataMapper & Active Record
