@@ -65,6 +65,12 @@ Intensive 16-week coding boot camp with an acceptance rate of 10%
 
 ## Experience
 
+#### February 2018 – Present – Jigsaw.xyz – Full-Stack JavaScript developer
+*Technology startup building a powerful marketplace tool for consumers*
+- Member of the Proof of Concept team responsible for building prototypes of internal core technology
+- Contributed to the development of an API using the Koa framework and Knex Query Builder whilst utilising Mocha, Chai and Sinon for testing
+- Currently creating a React.js Front-end interface using internal and external APIs
+
 #### December 2015 – March 2017 - Kantar Media Consumer Intelligence - Client Service Executive
 *One of the largest Market Research Businesses in Britain*
 - Provided account management for 20 Media Owners in Britain (including Twitter, Amazon, Google, Twitch and major Publishers such as News Corp)
